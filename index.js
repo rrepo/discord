@@ -36,24 +36,3 @@ client.on('message', msg => {
 });
 
 client.login('NTc0NzQ4NDMwMTQ1MDI4MDk2.XM967A._Iwx48xalIjdejjhzqCkjVG2IfA');
-
-// const Discord = require("discord.js");
-// const client = new Discord.Client();
-
-// client.on("ready", () => {
-//   console.log(Botを起動しました);
-// });
-
-// client.on('message', message => {
-//   if (message.content === ":topic") {
-
-
-
-    // message.channel.send("\n----------------");
-    // message.channel.send("話題一覧  修学旅行らしく、恋バナ、趣味、自己紹介（まだ人には教えていない自分の一面）、今日の天気");
-  // }
-
-ç
-// });
-
-// client.login("NTczNDY4MDU2MTU2ODk3MzEw.XMvw3Q.A7ERkrXp5rh01R1aeXL-xYM2_CU");
